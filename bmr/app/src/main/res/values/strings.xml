@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">bmr</string>
+    <string name="Name">Name</string>
+    <string name="BMR">BMR</string>
+    <string name="Create">Create</string>
+
+    <string name="create_topic">Creating  Record</string>
+    <string name="Name_">Name:</string>
+    <string name="Gender_">Gender:</string>
+    <string name="Age_">Age:</string>
+    <string name="Height_">Height(cm):</string>
+    <string name="Weight_">Weight(kg):</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="Cancel">Cancel</string>
+    <string name="Send">Send</string>
+
+    <string name="Result_topic">Result</string>
+    <string name="BMI_">BMI:</string>
+    <string name="BMR_">BMR:</string>
+    <string name="Save">Save</string>
+
+    <string name="mod_topic">Modify</string>
+
+</resources>
